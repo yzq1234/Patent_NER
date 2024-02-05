@@ -1,0 +1,7 @@
+O,0
+I-parts,1
+I-name,2
+B-parts,3
+I-use,4
+B-name,5
+B-use,6
